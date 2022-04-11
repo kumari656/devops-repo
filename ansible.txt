@@ -1,2 +1,3 @@
 ansible file created
 ansible file modified
+ansible file merged
